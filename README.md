@@ -1,39 +1,32 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# My Test Project
 
-Welcome Z03Y,
+The deployed project can be found here: [My Test Project](https://z03y.github.io/My-test-project/).
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+This is a test project created within the framework and with the guidance of Code Institute to familiarize myself with the process of creating and deploying a project using Gitpod, git, and GitHub.
 
-## Gitpod Reminders
+## Technologies and Languages used:
+- Git
+- GitHub
+- Gitpod
+- HTML
+- CSS
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Deployment:
 
-`python3 -m http.server`
+This project was deployed using GitHub pages.
 
-A blue button should appear to click: *Make Public*,
+## Credits
 
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+All icons used have been found in the following places:
+- [HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
+- [CSS3](https://i0.wp.com/www.paragonnamibia.com/wp-content/uploads/2016/03/css-logo.png?fit=500%2C500&ssl=1&w=640)
+- [Git](https://cdn.kualo.com/blogassets/wp-content/uploads/2015/11/git.jpg)
+- [GitHub](https://cdn.tutsplus.com/net/uploads/2013/08/github-collab-retina-preview.gif)
+- [Python](https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc)
+- [Flask](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7BNrly31osyKab-zEQEf81WXyv8km0meIpg&usqp=CAU)
+- [MongoDB](https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png)
+- [MySQL](https://pngimg.com/uploads/mysql/mysql_PNG23.png)
+- [Django](https://i.pinimg.com/originals/d9/70/36/d97036b366cf7dc60cebf3a4fee58463.png)
+- [Heroku](https://assets.stickpng.com/thumbs/58480873cef1014c0b5e48ea.png)
+- [JavaScript](https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png)
+- [Cloud9](https://gamespot1.cbsistatic.com/uploads/original/1567/15678706/3034054-ogImport-4647-0729849916-20130.jpg)
